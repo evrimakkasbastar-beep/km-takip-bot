@@ -6,7 +6,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
 # Telegram Bot Token (BotFather'dan aldığınız tokenı buraya yazın)
-TOKEN = "BURAYA_TELEGRAM_BOT_TOKENINIZI_YAZIN"
+TOKEN = "8925559702:AAFkgFamOVaw_xa-ccBWTkhkZEPl3PgEtKI"
 
 # Conversation Durumları
 PLAKA, KM_GIR_BASLANGIC = range(2)
